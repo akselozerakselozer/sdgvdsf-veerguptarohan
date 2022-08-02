@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "wr",
+      "setup": "make",
+      "run": "./appTests make test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 75
+    }
+  ]
+}
